@@ -1,0 +1,45 @@
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.deps.json
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csproj.CoreCompileInputs.cache
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfoInputs.cache
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfo.cs
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.dll
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.deps.json
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfoInputs.cache
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfo.cs
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csprojAssemblyReference.cache
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csprojAssemblyReference.cache
+C:\LTS\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.deps.json
+C:\LTS\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\LTS\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\LTS\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csproj.CoreCompileInputs.cache
+C:\LTS\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfoInputs.cache
+C:\LTS\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfo.cs
+C:\LTS\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\LTS\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\LTS\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csprojAssemblyReference.cache
+D:\LTS\Projects\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.deps.json
+D:\LTS\Projects\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+D:\LTS\Projects\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+D:\LTS\Projects\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csproj.CoreCompileInputs.cache
+D:\LTS\Projects\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfoInputs.cache
+D:\LTS\Projects\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfo.cs
+D:\LTS\Projects\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.dll
+D:\LTS\Projects\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+D:\LTS\Projects\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csprojAssemblyReference.cache
+E:\Yeni klasör\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.deps.json
+E:\Yeni klasör\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+E:\Yeni klasör\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+E:\Yeni klasör\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csprojAssemblyReference.cache
+E:\Yeni klasör\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csproj.CoreCompileInputs.cache
+E:\Yeni klasör\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfoInputs.cache
+E:\Yeni klasör\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfo.cs
+E:\Yeni klasör\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.dll
+E:\Yeni klasör\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.pdb

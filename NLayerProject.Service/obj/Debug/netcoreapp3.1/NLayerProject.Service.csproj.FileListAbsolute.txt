@@ -1,0 +1,70 @@
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.deps.json
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.dll
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.pdb
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.dll
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.pdb
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csprojAssemblyReference.cache
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CoreCompileInputs.cache
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfoInputs.cache
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfo.cs
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CopyComplete
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.dll
+F:\Projeler\Web\Net Core Projeleri\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.pdb
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.deps.json
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.dll
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.pdb
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.dll
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.pdb
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csprojAssemblyReference.cache
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfoInputs.cache
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfo.cs
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CopyComplete
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.dll
+C:\Users\LTS\Desktop\Projeler\NLayerProject.API\NLayerProject.API\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.pdb
+C:\LTS\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.deps.json
+C:\LTS\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.dll
+C:\LTS\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.pdb
+C:\LTS\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\LTS\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.dll
+C:\LTS\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\LTS\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.pdb
+C:\LTS\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csprojAssemblyReference.cache
+C:\LTS\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CoreCompileInputs.cache
+C:\LTS\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfoInputs.cache
+C:\LTS\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfo.cs
+C:\LTS\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CopyComplete
+C:\LTS\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.dll
+C:\LTS\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.pdb
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.deps.json
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.dll
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.pdb
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.dll
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.pdb
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csprojAssemblyReference.cache
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CoreCompileInputs.cache
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfoInputs.cache
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfo.cs
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CopyComplete
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.dll
+D:\LTS\Projects\NLayerProject\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.pdb
+E:\Yeni klasör\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.deps.json
+E:\Yeni klasör\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.dll
+E:\Yeni klasör\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Service.pdb
+E:\Yeni klasör\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+E:\Yeni klasör\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.dll
+E:\Yeni klasör\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+E:\Yeni klasör\NLayerProject.Service\bin\Debug\netcoreapp3.1\NLayerProject.Data.pdb
+E:\Yeni klasör\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csprojAssemblyReference.cache
+E:\Yeni klasör\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CoreCompileInputs.cache
+E:\Yeni klasör\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfoInputs.cache
+E:\Yeni klasör\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.AssemblyInfo.cs
+E:\Yeni klasör\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.csproj.CopyComplete
+E:\Yeni klasör\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.dll
+E:\Yeni klasör\NLayerProject.Service\obj\Debug\netcoreapp3.1\NLayerProject.Service.pdb

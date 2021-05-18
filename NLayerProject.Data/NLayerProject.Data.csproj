@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200505110312_AddOrderAndDetail.cs" />
+    <Compile Remove="Migrations\20200505110312_AddOrderAndDetail.Designer.cs" />
+    <Compile Remove="Migrations\20200505111006_AddOrderAndDetail.cs" />
+    <Compile Remove="Migrations\20200505111006_AddOrderAndDetail.Designer.cs" />
+    <Compile Remove="Migrations\20200505111456_AddOrderAndDetail.cs" />
+    <Compile Remove="Migrations\20200505111456_AddOrderAndDetail.Designer.cs" />
+    <Compile Remove="Migrations\20200505112853_AddOrderAndDetail.cs" />
+    <Compile Remove="Migrations\20200505112853_AddOrderAndDetail.Designer.cs" />
+    <Compile Remove="Migrations\20200505113040_AddOrderColumns.cs" />
+    <Compile Remove="Migrations\20200505113040_AddOrderColumns.Designer.cs" />
+    <Compile Remove="Migrations\20200505114501_addODetailColumnRemove.cs" />
+    <Compile Remove="Migrations\20200505114501_addODetailColumnRemove.Designer.cs" />
+    <Compile Remove="Migrations\20200505114837_AddOrderAndDetail.cs" />
+    <Compile Remove="Migrations\20200505114837_AddOrderAndDetail.Designer.cs" />
+    <Compile Remove="Migrations\20200505124413_AddOrderColumns.cs" />
+    <Compile Remove="Migrations\20200505124413_AddOrderColumns.Designer.cs" />
+    <Compile Remove="Migrations\20200505124657_AddOrderDetail.cs" />
+    <Compile Remove="Migrations\20200505124657_AddOrderDetail.Designer.cs" />
+    <Compile Remove="Migrations\20200505125738_AddOrderDetail.cs" />
+    <Compile Remove="Migrations\20200505125738_AddOrderDetail.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NLayerProject.Core\NLayerProject.Core.csproj" />
+  </ItemGroup>
+
+</Project>
